@@ -16,10 +16,6 @@
 - You need to have Node and NPM installed on your computer.
 - Installing Node automatically comes with npm.
 
-#### Clone
-
-- Clone this project to your local machine `https://github.com/victorsteven/Forum-App-React-Frontend.git`
-
 #### Setup
 
 - Installing the project dependencies
