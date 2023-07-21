@@ -1,14 +1,6 @@
 
 ### Forum-App-React-Frontend 
 
-
-React client that consumes the API: `https://github.com/victorsteven/Forum-App-Go-Backend`
-
-## Getting Started
-
-> [[Technologies](#technologies-used) &middot; [Testing Tools](#testing-tools) &middot; [Installations](#installations)  &middot; [Author](#author)
-
-
 ## Technologies Used
 
 - JavaScript
